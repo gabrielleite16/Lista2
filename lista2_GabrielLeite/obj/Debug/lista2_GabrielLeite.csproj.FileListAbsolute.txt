@@ -1,0 +1,2 @@
+c:\users\318122246\source\repos\lista2_GabrielLeite\lista2_GabrielLeite\obj\Debug\lista2_GabrielLeite.csprojAssemblyReference.cache
+c:\users\318122246\source\repos\lista2_GabrielLeite\lista2_GabrielLeite\obj\Debug\lista2_GabrielLeite.csproj.CoreCompileInputs.cache
